@@ -1,0 +1,16 @@
+Package: com.example.docktweak
+Name: DockTweak
+Description: Минимальный твик для скрытия фона Dock в SpringBoard
+Maintainer: xxvks
+Author: xxvks
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 0.1.0-4+debug
+Installed-Size: 24
+Filename: debs/com.example.docktweak_0.1.0-4+debug_iphoneos-arm64.deb
+Size: 4244
+MD5sum: 0400c1ccc74ed4e78274fd02273cebed
+SHA1: 8228b7a8d384996d1c7e246f7a91b92167f68cba
+SHA256: dd7d8c0a86d7f79aaa8d2e646e900fd25af6e0a4b847601d26ddb1cbf3155972
+
