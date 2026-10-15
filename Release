@@ -1,0 +1,16 @@
+Origin: DockTweak Local Repository
+Label: DockTweak
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm64
+Components: main
+Description: Local Sileo repository for DockTweak
+Date: Thu, 15 Oct 2026 13:22:45 +0000
+MD5Sum:
+ 2766349ae4271ccc805fc2d0fcfd78bb 530 Packages
+ 7598604df273ec71600ec424d69a6c89 415 Packages.gz
+ 560852ab102ebb3386ef872cf0291148 441 Packages.bz2
+SHA256:
+ 6fbd1751993495027c48676b1dbb697a8965acd78300971245fde689887ba4b0 530 Packages
+ 04285f2b075e6117d49fa2c0907ddb651429e56ba9dc93c6ba526816fef3839a 415 Packages.gz
+ a23a9f9464c5d4d3a6917d142a904b95ec2c71334c716a3e2456ecdd60833123 441 Packages.bz2
