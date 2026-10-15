@@ -1,0 +1,8 @@
+Origin: DockTweak Local Repository
+Label: DockTweak
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm64
+Components: main
+Description: Local Sileo repository for DockTweak
+Date: Thu, 15 Oct 2026 13:22:45 +0000
